@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+myenv/
+.venv/
+
+# Environment variables (contains passwords)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports (generated, can be large)
+reports/*.json
+
+# Pytest
+.pytest_cache/
+
+# Logs
+logs/
+*.log
