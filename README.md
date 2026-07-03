@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Database Migration Dashboard
 
 A production-grade, cross-platform database migration tool built with **Python** and **Streamlit**. Supports schema, data, and programmable object migration across SQL and NoSQL databases with connection pooling and CDC (Change Data Capture).
@@ -149,7 +149,7 @@ MYSQL_PASSWORD=yourpassword
 
 # PostgreSQL
 POSTGRES_HOST=localhost
-POSTGRES_PORT=5432
+POSTGRES_PORT=5433
 POSTGRES_USERNAME=postgres
 POSTGRES_PASSWORD=yourpassword
 
@@ -260,4 +260,4 @@ MIT
 =======
 # migration_dashboard
 Automated database migration framework supporting MSSQL, MySQL, PostgreSQL, MongoDB with schema conversion, data migration, CDC, validation, reporting, and an interactive dashboard for database modernization.
->>>>>>> 5eac80977441f9f8bd99986d2254b669b19c8f4c
+
